@@ -1,0 +1,22 @@
+body {
+
+	background-color: #988;
+}
+
+article {
+    color: #809;
+
+}
+
+p {
+    margin-top: 90px;
+    margin-bottom: 90px;
+    margin-right: 90px;
+    margin-left: 90px;
+    padding-top: 0
+    padding-bottom:0
+}
+
+.start {
+    background-color: green;
+}
